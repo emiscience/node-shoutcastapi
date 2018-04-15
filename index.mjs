@@ -1,0 +1,1 @@
+import {shoutcast-api} from './lib/index.mjs';

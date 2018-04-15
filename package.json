@@ -1,0 +1,23 @@
+{
+  "name": "shoutcast-mjs",
+  "version": "0.0.1",
+  "description": "Shoutcast ES6 NodeJS API Module",
+  "main": "index.mjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emiscience/shoutcast-mjs.git"
+  },
+  "keywords": [
+    "shoutcast",
+    "music",
+    "api",
+    "xml",
+    "json"
+  ],
+  "author": "as@emiscience.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emiscience/shoutcast-mjs/issues"
+  },
+  "homepage": "https://github.com/emiscience/shoutcast-mjs#readme"
+}
